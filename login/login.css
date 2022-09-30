@@ -1,0 +1,134 @@
+body{
+  background-color: #F8EDE3;
+  font-family: 'Ubuntu', sans-serif;
+}
+.login3{
+  position: absolute;
+  top: 30%;
+  right: 2%;
+}
+.box{
+  position: absolute;
+  top: 13%;
+  left: 35%;
+  background-color: #fff;
+  border-radius: 25px;
+  padding: 30px 70px;
+}
+h1{
+  text-align: center;
+}
+.open-text1{
+  text-align: center;
+}
+.open-text2{
+  line-height: 0.1rem;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.field{
+  border-color: #FEFBF6;
+  border-style: ridge;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100%;
+}
+::placeholder{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 600;
+  color: #CFD2CF;
+}
+hr{
+  padding-bottom: 5px;
+}
+.input{
+  padding:5px;
+}
+a{
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+.trouble{
+  padding-top: 10px;
+}
+.sign-button{
+  width: 85%;
+  padding: 20px;
+}
+.sign-in{
+  width: 110%;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #FECD70;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  cursor:pointer;
+}
+h3{
+  text-align: center;
+}
+.google{
+  width: 4%;
+  position: absolute;
+  top: 77.8%;
+  left: 18%;
+}
+.google-button{
+  border-color: #FEFBF6;
+  border-style: ridge;
+  border-radius: 5px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  padding: 8px 15px 5px 40px;
+  font-size: 13px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.apple-button{
+  border-color: #FEFBF6;
+  border-style: ridge;
+  border-radius: 5px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  padding: 8px 15px 5px 40px;
+  font-size: 13px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.facebook-button{
+  border-color: #FEFBF6;
+  border-style: ridge;
+  border-radius: 5px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  padding: 8px 15px 5px 40px;
+  font-size: 13px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.apple{
+  width: 4%;
+  position: absolute;
+  top: 77.5%;
+  left: 40%;
+}
+.facebook{
+  width: 4%;
+  position: absolute;
+  top: 77.8%;
+  left: 64%;
+}
+.closing{
+  padding: 25px;
+}
+.end-text1{
+  display: inline;
+  color: #94B49F;
+}
+.end-text2{
+  display: inline;
+  font-weight: bold;
+  cursor: pointer;
+}
