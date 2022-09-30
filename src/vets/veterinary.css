@@ -1,0 +1,228 @@
+.intro{
+  background-color: #D2DAFF;
+  height: 650px;
+  margin-bottom: 150px;
+  padding-bottom: 150px;
+  border-radius: 25px;
+}
+.navbar{
+  display: inline;
+}
+.heading1{
+  position: absolute;
+  left: 5%;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.heading2{
+  position: absolute;
+  top: 15%;
+  left: 40%;
+  font-family: 'Amaranth', sans-serif;
+}
+.intro-image{
+  padding: 180px 0px;
+  margin: -40px 50px 0px -50px;
+  width: 60%;
+}
+.open-text{
+  display: inline;
+  position: absolute;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  width: 40%;
+  top: 40%;
+  left: 55%;
+}
+.intro-text{
+  font-family: 'Ubuntu', sans-serif;
+  display:inline;
+  width: 40%;
+  position: absolute;
+  top: 48%;
+  line-height: 2rem;
+  left: 55%;
+}
+.provide{
+  font-family: 'Ubuntu', sans-serif;
+  position: absolute;
+  left: 45%;
+  top: 100%;
+}
+.clinic{
+  position: absolute;
+  left: 20%;
+  top: 125%;
+}
+.doctor{
+  position: absolute;
+  left: 45%;
+  top: 125%;
+}
+.firstaid{
+  position: absolute;
+  left: 70%;
+  top: 125%;
+}
+.service1{
+  font-family: 'Mukta', sans-serif;
+  position: absolute;
+  left: 18%;
+  top: 145%;
+}
+.service2{
+  font-family: 'Mukta', sans-serif;
+  position: absolute;
+  left: 41%;
+  top: 145%;
+}
+.service3{
+  font-family: 'Mukta', sans-serif;
+  position: absolute;
+  left: 69%;
+  top: 145%;
+}
+.physical{
+  font-family: 'Amaranth', sans-serif;
+  position: absolute;
+  top: 170%;
+
+}
+.physical img{
+  width: 100%;
+}
+.physical h2{
+  padding: 30px 0px 50px 140px;
+  background-color: #ADDDD0;
+}
+.phone{
+  font-family: 'Amaranth', sans-serif;
+  position: absolute;
+  top: 385%;
+}
+.phone h2{
+  padding: 30px 0px 50px 140px;
+  background-color: #ADDDD0;
+}
+.phone img{
+  width: 70%;
+}
+.video{
+  position: absolute;
+  top: 640%;
+  padding-bottom: 100px;
+}
+.video h2{
+  padding-bottom: 50px;
+  padding-left: 110px;
+  font-family: 'Amaranth', sans-serif;
+}
+.video1{
+  display: inline;
+  position: relative;
+  left: 5%;
+  padding: 250px 0px 50px 80px;
+  border-radius: 25px;
+  background-color: #FFF6BF;
+}
+.video1 a{
+  position: relative;
+  top: 10%;
+  left: -15%;
+}
+.video1 img{
+  width: 20%;
+}
+.video2{
+  display: inline;
+  position: relative;
+  left: 7%;
+  padding: 250px 0px 50px 80px;
+  border-radius: 25px;
+  background-color: #FFF6BF;
+}
+.video2 img{
+  width: 20%;
+}
+.video2 a{
+  position: relative;
+  top: 10%;
+  left: -12%;
+}
+.video3{
+  display: inline;
+  position: relative;
+  left: 9%;
+  padding: 250px 0px 50px 80px;
+  border-radius: 25px;
+  background-color: #FFF6BF;
+}
+.video3 a{
+  position: relative;
+  top: 10%;
+  left: -12%;
+}
+.video3 img{
+  width: 20%;
+}
+.video4{
+  display: inline;
+  position: relative;
+  left: 5%;
+  padding: 250px 30px 50px 80px;
+  border-radius: 25px;
+  background-color: #FFF6BF;
+}
+.video4 a{
+  position: relative;
+  top: 10%;
+  left: -15%;
+}
+.video4 img{
+  width: 20%;
+  margin-top: 8%;
+}
+.video5{
+  display: inline;
+  position: relative;
+  top: 20%;
+  left: 7%;
+  padding: 250px 0px 50px 80px;
+  border-radius: 25px;
+  background-color: #FFF6BF;
+}
+.video5 a{
+  position: relative;
+  top: 10%;
+  left: -15%;
+}
+.video5 img{
+  width: 20%;
+}
+.video6{
+  display: inline;
+  position: relative;
+  top: 20%;
+  left: 9%;
+  padding: 250px 0px 50px 80px;
+  border-radius: 25px;
+  background-color: #FFF6BF;
+}
+.video6 a{
+  position: relative;
+  top: 10%;
+  left: -15%;
+}
+.video6 img{
+  width: 20%;
+}
+.map{
+  width: 1500px;
+  position: absolute;
+  top: 1000%;
+}
+.gmap{
+  margin-top: 200px;
+  margin-left: 25%;
+}
