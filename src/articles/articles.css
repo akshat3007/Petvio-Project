@@ -42,10 +42,13 @@ margin-left: 50px;
   background-color: #FFE3E1;
   padding: 50px 0px;
   border-radius: 25px;
+  color: #AF0171;
 }
 #articles p{
   font-family: 'Mukta', sans-serif;
   margin-left: 50px;
+  color: #000000;
+  font-weight: 600;
 }
 #articles a{
   text-decoration: none;
