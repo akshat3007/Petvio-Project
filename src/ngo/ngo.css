@@ -16,7 +16,7 @@
 }
 .heading2{
   position: absolute;
-  top: 15%;
+  top: 12%;
   left: 40%;
   font-family: 'Amaranth', sans-serif;
 }
@@ -31,7 +31,7 @@
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
   width: 40%;
-  top: 50%;
+  top: 30%;
   left: 55%;
 }
 .intro-text{
@@ -39,7 +39,7 @@
   display:inline;
   width: 40%;
   position: absolute;
-  top: 58%;
+  top: 40%;
   line-height: 2rem;
   left: 55%;
 }
