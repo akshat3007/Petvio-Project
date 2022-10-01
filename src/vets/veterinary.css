@@ -51,7 +51,7 @@
   font-family: 'Ubuntu', sans-serif;
   position: absolute;
   left: 45%;
-  top: 100%;
+  top: 110%;
 }
 .clinic{
   position: absolute;
@@ -133,6 +133,9 @@
   position: relative;
   top: 10%;
   left: -15%;
+  color: #F7A76C;
+  font-family: 'Amaranth', sans-serif;
+  font-weight: 600;
 }
 .video1 img{
   width: 20%;
@@ -152,6 +155,9 @@
   position: relative;
   top: 10%;
   left: -12%;
+  color: #F7A76C;
+  font-family: 'Amaranth', sans-serif;
+  font-weight: 600;
 }
 .video3{
   display: inline;
@@ -165,6 +171,9 @@
   position: relative;
   top: 10%;
   left: -12%;
+  color: #F7A76C;
+  font-family: 'Amaranth', sans-serif;
+  font-weight: 600;
 }
 .video3 img{
   width: 20%;
@@ -180,7 +189,7 @@
 .video4 a{
   position: relative;
   top: 10%;
-  left: -15%;
+  left: -12%;
   color: #F7A76C;
   font-family: 'Amaranth', sans-serif;
   font-weight: 600;
@@ -201,7 +210,7 @@
 .video5 a{
   position: relative;
   top: 10%;
-  left: -15%;
+  left: -12%;
   color: #F7A76C;
   font-family: 'Amaranth', sans-serif;
   font-weight: 600;
@@ -221,7 +230,7 @@
 .video6 a{
   position: relative;
   top: 10%;
-  left: -15%;
+  left: -12%;
   color: #F7A76C;
   font-family: 'Amaranth', sans-serif;
   font-weight: 600;
