@@ -31,9 +31,11 @@
   position: absolute;
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
+  font-size: 1.6rem;
   width: 40%;
   top: 40%;
   left: 55%;
+  color: #25316D;
 }
 .intro-text{
   font-family: 'Ubuntu', sans-serif;
@@ -43,6 +45,7 @@
   top: 48%;
   line-height: 2rem;
   left: 55%;
+  font-weight: 600;
 }
 .provide{
   font-family: 'Ubuntu', sans-serif;
